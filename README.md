@@ -92,13 +92,14 @@ The data flows through Bronze → Silver → Gold to demonstrate a complete ETL 
 
 
 
-## 👤 Author
 
-Ahmed Elshahat
+👨‍💻 About Me
 
-Pharmacist | Data Analyst
-  
-Phone: +971502726928
+Hi, I'm Ahmed Elshahat, a licensed Pharmacist with a strong passion for Data Analytics.
 
-Email:ahmedelshahat64@gmail.com
+My goal is to combine my pharmaceutical background with data-driven decision-making to improve healthcare outcomes and support better clinical and business decisions.
+
+I am currently building my skills in SQL, Data Warehousing, ETL, Excel, Power BI, and Data Analytics through hands-on projects and continuous learning. I believe that data has the power to transform the healthcare industry, and I'm committed to becoming a professional who bridges both fields.
+
+I'm always eager to learn, take on new challenges, and contribute to impactful data-driven solutions.
 
