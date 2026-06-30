@@ -8,13 +8,16 @@ The goal is to transform raw data into clean, business-ready datasets for report
 
 ## 🏗️ Architecture
 
-Bronze Layer
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/93f41b7e-8ddd-48ea-9703-796f814c19df" />
+
+
+## Bronze Layer
 
 - Stores raw data from the source.
 
 - No transformations applied.
 
-Silver Layer
+## Silver Layer
 
 - Cleans and standardizes the data.
 
@@ -22,17 +25,13 @@ Silver Layer
 
 - Applies business rules.
 
-Gold Layer
+## Gold Layer
 
 - Creates analytical models.
 
 - Builds fact and dimension tables.
 
 - Provides data ready for reporting and BI tools.
-
-<img width="1544" height="912" alt="image" src="https://github.com/user-attachments/assets/e6873d1c-dbcc-4d12-90fc-a2d752feafca" />
-
-
 
 
 
