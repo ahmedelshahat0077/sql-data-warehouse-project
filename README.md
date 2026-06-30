@@ -96,7 +96,9 @@ The data flows through Bronze → Silver → Gold to demonstrate a complete ETL 
 
 Ahmed Elshahat
 
-Pharmacist | Data Analyst 
+Pharmacist | Data Analyst
+
 Phone: +971502726928
+
 Email:ahmedelshahat64@gmail.com
 
